@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello there 
 a7med
 tito
 no mercy
+=======
+Hi,Come back
+>>>>>>> 1stBranch
